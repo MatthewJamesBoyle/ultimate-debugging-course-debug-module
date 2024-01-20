@@ -1,8 +1,8 @@
 package fib_test
 
 import (
+	"github.com/MatthewJamesBoyle/ultimate-debugging-course-debug-module/internal/todointernal/fib"
 	"testing"
-	"ultimate-debugging-course-debug-module/internal/fib"
 )
 
 func TestFib(t *testing.T) {

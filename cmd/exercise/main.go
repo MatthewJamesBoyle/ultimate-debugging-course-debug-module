@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
+	"github.com/MatthewJamesBoyle/ultimate-debugging-course-debug-module/internal/todo"
 	"log"
 	"net/http"
-	"ultimate-debugging-course-debug-module/internal/todo"
 )
 
 func main() {
